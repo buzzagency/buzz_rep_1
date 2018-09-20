@@ -1,6 +1,6 @@
 ---
 ID: 95
-post_title: 3.3_Marketing
+post_title: Marketing
 author: admin
 post_excerpt: ""
 layout: page
