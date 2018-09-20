@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-10 10:31:54
 ---
-&nbsp;
+[ditty_news_ticker id="313"]
 <pre>[tickr_list category="" count=""]</pre>
 [edsanimate_start entry_animation_type= "fadeIn" entry_delay= "0" entry_duration= "3" entry_timing= "linear" exit_animation_type= "" exit_delay= "" exit_duration= "" exit_timing= "" animation_repeat= "1" keep= "yes" animate_on= "scroll" scroll_offset= "75" custom_css_class= ""]The Buzz Agency Brand ID[edsanimate_end]
 
