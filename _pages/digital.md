@@ -1,6 +1,6 @@
 ---
 ID: 99
-post_title: 3.5_Digital
+post_title: Digital
 author: admin
 post_excerpt: ""
 layout: page
