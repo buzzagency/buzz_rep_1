@@ -1,6 +1,6 @@
 ---
 ID: 101
-post_title: 3.6_Social
+post_title: Social
 author: admin
 post_excerpt: ""
 layout: page
