@@ -22,6 +22,7 @@ Basically, content marketing is the art of communicating with your customers and
 With traditional marketing becoming less effective many companies are turning to content marketing to deliver consistent, ongoing, valuable, information to buyers, making them read, think and behave differently.
 
 Without good content you won’t achieve good marketing.
+
 <strong>Copy that moves your conversation to a more personal level – their inbox.</strong>
 
 Research by Microsoft has shown that the steady growth of smartphones has caused the attention span of the human brain to fall as low as 8 seconds, even less than the average goldfish. This means that having great copy content in your email campaigns is more important than ever to capture your customers interest immediately, from eye-catching subject lines to email content that’s concise, informative, engaging and focused on the reader, encouraging them to click through to your website or take action straight from your email.
